@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bb1e03a9e8e484468a1c1464d888e478
+timeCreated: 1505684519
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Quirlycues
+  fontNames:
+  - Quirlycues
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
